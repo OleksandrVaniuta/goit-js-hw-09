@@ -9,7 +9,7 @@ const refs = {
 
 const colorChanger = {
   isActive: false,
-  changeCl: null,
+  changeClr: null,
 
   start() {
     if (this.isActive) {
